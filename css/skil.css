@@ -7,7 +7,7 @@
 
 body {
   background-color: #07091d;
-  background-image: url('/img/bg.jpg');
+  background-image: url('img/bg.jpg');
   background-size: cover;
   background-position: center;
 
